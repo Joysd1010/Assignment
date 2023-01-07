@@ -3,7 +3,8 @@
 }
 /*header part*/
 .head{
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(/images/banner3.png);
+    background-repeat: no-repeat;
     height: 810px;
     width: 1515px;
     
