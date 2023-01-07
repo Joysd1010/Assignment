@@ -3,7 +3,7 @@
 }
 /*header part*/
 .head{
-    background-image: url(/images/banner3.png);
+    background-image: url(./images/banner3.png);
     background-repeat: no-repeat;
     height: 810px;
     width: 1515px;
@@ -148,7 +148,7 @@ font-size: 25px;
 /*gradient image with button*/
 .gradient{
    background-image:  linear-gradient(to left, rgba(9, 31, 154, 0), rgba(111, 89, 168, 0.945)),
-    url(/images/watch.png);
+    url(./images/watch.png);
     width: 1050px;
     height: 300px;
 margin-bottom: 130px;
